@@ -2,9 +2,6 @@ package com.deyvsonaguiar.calculcadoraimc
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Toast
-import androidx.core.widget.doAfterTextChanged
-import androidx.core.widget.doOnTextChanged
 import kotlinx.android.synthetic.main.main_constraint.*
 
 class MainActivity : AppCompatActivity() {
